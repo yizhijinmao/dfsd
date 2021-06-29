@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>123456</string>
+			<string>cuiyuhua123</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.6.157</string>
+			<string>192.168.0.124</string>
 			<key>ProxyServerPort</key>
-			<integer>7890</integer>
+			<integer>10809</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>NETGEAR23-5G</string>
+			<string>Xiaomi318C5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
